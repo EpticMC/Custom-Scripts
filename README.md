@@ -1,9 +1,9 @@
 # Custom-Scripts
 All kinds of scripts written for EpticMC
 
-This repository is dedicated to various scripts written for EpticMC, including but not limited to Dotfiles, Forum modifications and tools. 
+This repository is dedicated to various scripts written for EpticMC, including but not limited to Dotfiles, Forum modifications, Configs and tools. 
 
-More dotfiles used by us: https://github.com/NLDev/dotfiles 
+More dotfiles used & made by us: https://github.com/NLDev/dotfiles 
 
 ## Explanations for the files:
 
