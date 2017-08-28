@@ -9,6 +9,8 @@ More dotfiles used by us: https://github.com/NLDev/dotfiles
 
 | File | Purpose |
 |------|---------|
+| /minified | All scripts with same functionalities, but in minified version. | 
 | <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/WBB_Post_Disable.js">WBB_Post_Disable.js</a> | Script to remove "About Me" sections in threads without removing it from the profile |
 | <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/WBB_Modal_Link.js">WBB_Modal_Link.js</a> | Script to display an alert modal if a specific link is clicked. Used at <a href="https://epticmc.com/apply">epticmc.com/apply</a> when the administrator application link is clicked |
+| <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/WBB_Modal_Link.css">WBB_Modal_Link.css</a> | Styles for the Alert Modal called by <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/WBB_Modal_Link.js">WBB_Modal_Link.js</a> |
 | <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/WBB_Link_Titles.js">WBB_Link_Titles.js</a> | Script to give links specific titles as seen on <a href="https://epticmc.com/apply">epticmc.com/apply</a> |
