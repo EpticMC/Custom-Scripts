@@ -41,6 +41,10 @@
     color:                      white;
 }
 
+.modal_h { line-height:         50px !important; }
+
+.modal_p { color:               #000; }
+
 .errsym {
     color:                      #FFF; 
     font-size:                  0.8em; 
