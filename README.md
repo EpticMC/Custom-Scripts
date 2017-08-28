@@ -9,4 +9,5 @@ More dotfiles used by us: https://github.com/NLDev/dotfiles
 
 | File | Purpose |
 |------|---------|
-| <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/WBB_Post_Disable.js">WBB_Post_Disable.js</a> | This script removes the "About Me" section in threads without removing it from the profile itself |
+| <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/WBB_Post_Disable.js">WBB_Post_Disable.js</a> | Script to remove "About Me" sections in threads without removing it from the profile |
+| <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/WBB_Modal_Link.js">WBB_Modal_Link.js</a> | Script to display an alert modal if a specific link is clicked. Used at <a href="https://epticmc.com/apply">epticmc.com/apply</a> when the administrator application link is clicked |
