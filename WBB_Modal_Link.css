@@ -41,6 +41,11 @@
     color:                      white;
 }
 
+.errsym {
+    color:                      #FFF; 
+    font-size:                  0.8em; 
+}
+
 .close {
     color:                      black;
     float:                      right;
