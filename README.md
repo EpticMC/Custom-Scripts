@@ -20,7 +20,7 @@ More dotfiles used & made by us: https://github.com/NLDev/dotfiles
 | <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/WBB_Konami_Game.css">WBB_Konami_Game.css</a>\* | Styles for the <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/WBB_Konami_Game.html">WBB_Konami_Game.html</a> iframe popup |
 | <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/Konami.js">Konami.js</a>\* | This is the Konami easteregg game it self borrowed from our website (Rel: <a href="https://github.com/NLDev/NullDev/tree/master/js">GitHub Repo</a>). | 
 | <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/Konami.html">Konami.html</a>\* | This is the HTML body of the Konami easteregg game borrowed from our website (Rel: <a href="https://github.com/NLDev/NullDev/tree/master/js">GitHub Repo</a>). |
-| <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/nginx.conf">nginx.conf</a> | Contains Nginx webserver configurations for the Forum including SSL, Caching and Redirects. Note: This configuration scores **A+** on the SSL Labs check. Test us <a href="http://ssllabs.com/ssltest/analyze.html?d=epticmc.com&latest">here</a>. | 
+| <a href="https://github.com/EpticMC/Custom-Scripts/blob/master/nginx.conf">nginx.conf</a> | Contains Nginx webserver configurations for the Forum including SSL, Caching and Redirects. Note: This configuration scores **A+** on the SSL Labs check. Test us <a href="https://www.ssllabs.com/ssltest/analyze.html?d=epticmc.com&latest">here</a>. | 
 
 <br>
 
