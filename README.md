@@ -5,6 +5,14 @@ This repository is dedicated to various scripts written for EpticMC, including b
 
 More dotfiles used & made by us: https://github.com/NLDev/dotfiles 
 
+# DEPRECATED
+
+This repository is **OLD**.
+
+Those scripts were written for the old EpticMC forum which was based on WoltLab BurningBoard.
+
+The new one is MyBB!
+
 ## Explanations for the files:
 
 | File | Purpose |
